@@ -20,7 +20,7 @@ function Welcome() {
                 </p>
             </div>
             <div className="Panel Panelhead" data-aos="fade" data-aos-duration="4000">
-                <img src={'./images/portfolpix.PNG'} alt="sadge" id="portfolimg" />
+                <img src={'./images/welcome/portfolpix.png'} alt="sadge" id="portfolimg" />
                 <h1 id='writeon'>
                     <Typewriter options={{
                         strings: ['Adirath Goswami', '@yannytwoo', '@adirathg'],

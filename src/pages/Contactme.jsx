@@ -1,7 +1,7 @@
 import React from "react";
 // import { useState } from "react";
 
-import ContactForm from "../components/Contactform";
+// import ContactForm from "../components/Contactform";
 import SocialHandles from "../components/Socialhandles";
 
 
